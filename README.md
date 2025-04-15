@@ -1,4 +1,5 @@
-![Screenshot 2024-11-13 003902](https://github.com/user-attachments/assets/c50cdf0a-e932-4410-86f9-511b6d5629f7)
+![Screenshot 2024-11-13 003224](https://github.com/user-attachments/assets/2d5b1296-0805-46fb-a934-285fce6c85e3)
+
 # 🤖 The Robotic Arm Project
 
 Welcome to the Robotic Arm Project! Developed as a project of the Machine Drawing lab at IIT ROPAR, this repository is a demonstration of creative engineering and precision mechanical design. It showcases a fully functional robotic arm built from the ground up using SolidWorks and integrated with Arduino for motion control. Every joint, link, and gripper mechanism has been carefully modeled to reflect real-world motion and use-case applications.
