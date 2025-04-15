@@ -1,4 +1,9 @@
-# 🤖 The Robotic Arm
+![Screenshot 2024-11-13 003902](https://github.com/user-attachments/assets/c50cdf0a-e932-4410-86f9-511b6d5629f7)
+# 🤖 The Robotic Arm Project
+
+Welcome to the Robotic Arm Project! Developed as a project of the Machine Drawing lab at IIT ROPAR, this repository is a demonstration of creative engineering and precision mechanical design. It showcases a fully functional robotic arm built from the ground up using SolidWorks and integrated with Arduino for motion control. Every joint, link, and gripper mechanism has been carefully modeled to reflect real-world motion and use-case applications.
+
+This repository contains the complete SolidWorks design files for the robotic arm assembly, along with the Arduino code used to control the servo motors. The project includes the main arm assembly, all supporting subcomponents, circuit schematics, and control firmware—making it a comprehensive package for learning, prototyping, or further development in robotics.
 
 **The Robotic Arm** is a mechanical system designed to mimic the movement and function of a human arm. This project demonstrates concepts of mechanical design, automation, and control systems, and can be scaled for applications in education, industry, and research.
 
