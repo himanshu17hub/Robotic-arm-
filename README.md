@@ -39,7 +39,3 @@ This robotic arm is capable of performing precise movements using servo motors a
 - **Electronics:** Servo motors, potentiometers, power supply
 - **Fabrication:** 3D Printing / Laser Cutting (for parts)
 
----
-
-## Folder Structure
-
